@@ -1,0 +1,4 @@
+node_modules/
+__pycache__/
+bkmatui/dist/
+bkmatui.egg-info/
